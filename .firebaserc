@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chayen"
+  },
+  "targets": {
+    "chayen": {
+      "hosting": {
+        "thaichana-checkin": [
+          "thaichana-checkin"
+        ]
+      }
+    }
+  }
+}
